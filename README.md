@@ -37,8 +37,8 @@ To run this project locally:
 
 1. **Clone the repository** 📥  
    ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
-   cd rock-paper-scissors
+   git clone https://github.com/Abad-Ali/Stone_Paper_Scissors.git
+   cd Stone_Paper_Scissors
 
 
 2. **Open the game** in your browser 🌐
