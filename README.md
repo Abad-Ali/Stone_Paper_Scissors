@@ -20,12 +20,12 @@ A fun and interactive **Rock Paper Scissors** web game built with **HTML**, **CS
 
 rock-paper-scissors/
 │
-├── index.html            📄 HTML structure
-├── sps.css               🎨 Styling (CSS)
-├── sps.js                🧠 Game logic (JavaScript)
-├── image\_rock.webp       🖼️ Game icons
-├── image\_paper.jpeg      🖼️ Game icons
-└── image\_scissors.jpg    🖼️ Game icons
+├── index.html             📄 HTML structure
+├── sps.css                🎨 Styling (CSS)
+├── sps.js                 🧠 Game logic (JavaScript)
+├── image_rock.webp        🖼️ Game icons
+├── image_paper.jpeg       🖼️ Game icons
+└── image_scissors.jpg     🖼️ Game icons
 
 ````
 
